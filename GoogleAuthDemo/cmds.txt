@@ -1,0 +1,12 @@
+From terminal , go to project directory
+
+dotnet user-secrets set "Authentication:Google:ClientId" "874216237336-k9ao0080356tv2hevnu0mq4ia9aagoit.apps.googleusercontent.com"
+
+dotnet user-secrets set "Authentication:Google:ClientSecret" "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"
+
+
+Source code: https://github.com/rd003/GoogleAuthDemo
+📎Google api and services: https://console.cloud.google.com/apis
+
+
+https://www.youtube.com/watch?v=gq1zNiKWCP4
