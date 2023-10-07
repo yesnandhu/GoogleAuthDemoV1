@@ -7,8 +7,8 @@ var configuration = builder.Configuration;
 
 builder.Services.AddAuthentication().AddGoogle(googleOptions =>
 {
-    googleOptions.ClientId = "874216237336-k9ao0080356tv2hevnu0mq4ia9aagoit.apps.googleusercontent.com";
-    googleOptions.ClientSecret = "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";
+    googleOptions.ClientId = "";
+    googleOptions.ClientSecret = "";
 });
 
 // Add services to the container.
